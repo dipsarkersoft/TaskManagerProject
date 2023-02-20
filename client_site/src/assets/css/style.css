@@ -1,0 +1,197 @@
+.MainNavbar{
+    background-color: #F9F8F8;
+}
+.nav-link{
+    font-size: 20px;
+    color: rgba(28,21,27,0.49);
+}
+.navbar-brand{
+    font-size: 40px;
+
+}
+.center-screen {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    min-height: 85vh;
+}
+
+
+.side-nav{
+    width: 100px;
+}
+
+
+
+body {
+    background-color: #f8f9fa;
+}
+
+.card {
+    margin-top: 50px;
+}
+
+.card-header h3 {
+    font-weight: bold;
+
+
+
+}
+.btn-block{
+    background-color: #57b846;
+    border-radius: 20px;
+    padding: 10px 30px;
+}
+.btn-block:hover{
+    background-color: #333333;
+}
+.btn-block {
+    margin-top: 20px;
+    font-weight: bold;
+    font-size: 15px;
+    text-transform: uppercase;
+    align-items: center;
+    
+}
+.form-group label{
+    margin-bottom: 10px;
+    font-family: SansSerif;
+    font-size: 18px;
+
+}
+.buttonClass li{
+    font-size: 20px;
+    margin-top: 10px;
+
+}
+.buttonClass li a{
+    text-decoration: none;
+   padding-left: 10px;
+   font-family: Arial;
+}
+.last li {
+    text-decoration: none;
+    padding: 5px;
+    font-family: Arial;
+}
+
+.last li a{
+    text-decoration: none;
+    color: #ff0d18;
+    font-weight: 600;
+
+}
+.last li a:hover{
+
+    color: #3bff2e;
+}
+
+
+.navicon{
+    font-size: 25px;
+    font-weight: bold;
+
+}
+.user-dropdown {
+    position: relative;
+    display: inline-block;
+}
+
+.user-dropdown-content {
+    display: none;
+    position: absolute;
+    background-color:#ffffff;
+    width: 150px;
+    height: 170px;
+
+    right: 0;
+
+    transition: 0.3s;
+    border: 1px solid rgba(0,0,0,.075);
+    box-shadow: 0 1px 2px  rgba(0,0,0,.075);
+    z-index: 1;
+}
+.user-dropdown:hover .user-dropdown-content {
+    display: block;
+    transition: 0.3s;
+}
+.user-dropdown-divider{
+    background: #a2a2a2;
+}
+.side-bar-item{
+    text-decoration: none;
+
+}
+.side-bar-item span{
+    padding: 20px;
+
+    text-decoration: none;
+}
+.Item {
+    text-decoration: none;
+    font-size: 20px;
+   margin: 20px;
+    padding: 15px;
+
+}
+.navbar{
+    margin: 0px 50px;
+}
+.icon-nav{
+    width: 30px;
+    height: auto;
+    border-radius: 50%
+}
+
+.cardALL{
+    width: 310px;
+}
+
+.bg-danger{
+    text-decoration: none;
+    padding: 10px 10px;
+
+}
+.bg-danger:hover{
+    color: white;
+}
+.user-dropdown img{
+    width: 40px;
+
+
+}
+ .two{
+    width: 60px;
+    height: 60px;
+    border-radius: 50%
+
+}
+
+
+.iconE{
+
+    color: rgba(34, 255, 22, 0.63);
+}
+.iconD:hover{
+    text-decoration: none;
+    color: #333333;
+
+}
+
+.iconE:hover{
+    text-decoration: none;
+    color: #333333;
+
+}
+.iconD{
+    color: rgb(255, 9, 17);
+}
+.date{
+    color: #a2a2a2;
+    text-decoration: none;
+}
+.date:hover{
+    color: #a2a2a2;
+    text-decoration: none;
+}
