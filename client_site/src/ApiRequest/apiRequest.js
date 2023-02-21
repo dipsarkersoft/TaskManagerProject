@@ -9,7 +9,7 @@ import { SetSummary } from "../redux/stateSlice/SummerySlice";
 import {SetProfile} from "../redux/stateSlice/Profile";
 import {toArray} from "antd/es/form/util";
 
-const BaseUrl="http://localhost:8000/api/v1"
+const BaseUrl="https://defiant-singlet-bear.cyclic.app/api/v1"
 const AxiosHeader={headers:{"token":getToken()}}
 
 
